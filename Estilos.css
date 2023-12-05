@@ -1,0 +1,89 @@
+
+
+.img1{width: 300px; 
+		height: 200px;
+	}
+	.img2{width: 130px; 
+		height: 200px;
+	}
+
+	body{
+ background-image: url("Fondo 1.jpeg");
+}
+
+
+table { 
+	text-align:center;
+	background-color: #lightcoral;
+
+	width: 70%;
+	color: ghostwhite;
+ }
+
+
+	/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: purple;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: darkred;
+}
+
+
+-productos-
+
+
+<style>
+
+	.img1{width: 50px; 
+		height: 100px
+	}
+	.img2{width: 100px; 
+		height: 150px
+	}
+
+table { 
+	text-align:center;
+	background-color: #lightcoral;
+	width: 70%;
+	color: ghostwhite;
+ }
+
+	body{
+ background-image: url("Fondo 1.jpeg");
+}
+
+
+	/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: purple;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: darkred;
+}
+
+</style>
